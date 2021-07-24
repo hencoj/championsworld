@@ -1,0 +1,144 @@
+body{background-color:wheat;
+    width: 100%;
+}
+#heads{
+    
+    
+    padding-bottom: 5rem;
+}
+form{
+    background-color: whitesmoke;
+    margin-left: 1px;
+    padding: 1rem;
+    margin-bottom: 200px;
+    color: blue;
+}
+header{
+    background-color: none;
+    text-align: center;
+    text-transform: capitalize;
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: cornsilk;
+    height:;
+    padding: none;
+}
+.home{
+    background-image: ulr(./2.jpg);
+    width: inherit;
+}
+p{
+    font-family: fantasy;
+    font-size: 0em;
+    text-transform: capitalize;
+    text-align-last: center;
+}
+li{
+    color: darkgreen;
+    list-style-type: none;
+    padding: 2px;
+    margin: 3px;
+    border-width: 15cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+}
+nav{
+    background-color:red;
+    color: black;
+    font-family: snell Roundband, cursive;
+    text-align: center;
+    height: 2rem;
+}
+a:hover{
+    background-color: cornsilk;
+    color: darkgreen;
+}
+a{
+    background-color:whitesmoke;
+    padding: 0.5em;
+    margin: 3px;
+    font-family: snell Roundband, cursive;
+    text-align: center;
+    border-radius: 2rem;
+    margin-top: 3rem;
+    height: 2px;
+}
+#download:hover {
+    border: none;
+    background-color: rgb(248, 125, 10);
+    border-radius: 2px solid;
+}
+
+}
+
+#h{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: saddlebrown;
+}
+footer{
+    clear: both;
+    text-align: center;
+    text-transform: capitalize;
+    background-color:sienna;
+    color: cornsilk;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:whitesmoke;
+    margin-top: 3rem;
+}
+#image{
+    background: white;
+    width: 100%;
+}
+td{
+    width: 2rem;
+    
+}
+label{font-size: 2rem;
+    font-weight: bold;
+    color:blue;
+}
+#money{
+    font-size: 1rem;
+    font-weight: bold;
+    color: chocolate;
+}
+
+#champion{
+    background-color: blueviolet;
+}
+#c{
+    color: crimson;
+}
+}
+#reg{
+    background-color:rebeccapurple;
+    height: 2rem;
+
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+}
+
+#b{padding-top: 2px;
+    padding-bottom: 8px;
+    margin-bottom: ;
+    color: white;
+
+}
+
+
+#cb{
+    margin-bottom: 20rem;
+}
+
+#body{
+    border-radius: 5px;
+    
+}
+
+#w{
+    text-align: center;
+    color:red;
+}
